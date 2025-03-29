@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Project specific
+query_embedding.npy
+Docs/
+*.index
+
+# Development
+.vscode/
+.idea/
+*.swp
+.DS_Store
