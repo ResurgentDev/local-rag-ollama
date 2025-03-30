@@ -1,3 +1,12 @@
+---
+⚠️ **Work-in-Progress (WIP)** ⚠️
+
+This project is part of an ongoing personal learning journey. While there may be other tools available that achieve similar tasks, this repository serves an educational purpose, showcasing my exploration and development skills.
+
+Currently, collaboration is not actively sought. However, if you find value in this project and believe it could grow into something impactful, feel free to reach out for discussions on potential collaboration!
+
+---
+
 # Local-RAG-Ollama
 
 **🚧 Enhanced Version - Under Development 🚧**
