@@ -1,14 +1,7 @@
 ---
 ⚠️ **Work-in-Progress (WIP)** ⚠️
 
-This repository is part of my ongoing personal learning journey as I explore development tools, concepts, and practices. While there may be other tools available that achieve similar tasks, this repository serves an educational purpose, showcasing my exploration and development skills.
-
-I’m sharing this repository to:
-- **Invite constructive feedback** to accelerate my learning.
-- **Help others** who might benefit from similar exploration.
-- **Engage potential collaborators** or employers who value growth and curiosity.
-
-💡 While this project is still evolving, I welcome discussions, suggestions, and connections that could help me refine and expand my work.
+This project is part of an ongoing personal learning journey. While there may be other tools available that achieve similar tasks, this repository serves an educational purpose, showcasing my exploration and development skills.
 
 Currently, collaboration is not actively sought. However, if you find value in this project and believe it could grow into something impactful, feel free to reach out for discussions on potential collaboration!
 
