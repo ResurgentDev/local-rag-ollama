@@ -1,15 +1,12 @@
-# Python
-__pycache__/
-*.py[cod]
-venv/
+# Ignore everything
+*
 
-# Project specific
-query_embedding.npy
-Docs/
-*.index
+# But not these files...
+!.gitignore
+!README.md
+!README-DEV.md
+!FUTURE_PLANS.md
+!LICENSE.txt
 
-# Development
-.vscode/
-.idea/
-*.swp
-.DS_Store
+# And not these configs (needed for git)
+!.gitattributes
